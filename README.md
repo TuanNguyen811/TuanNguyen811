@@ -1,5 +1,4 @@
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TuanNguyen2k2.png" alt="TryHackMe">
 <h1>Hello🌦️</h1>
 <img src="https://raw.githubusercontent.com/zanepearton/zanepearton/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
 
