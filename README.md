@@ -8,20 +8,6 @@
 💻 Interested in AI, Web Security, and Network Security  
 
 ## 📜 My Badges  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3441072" style='border:none;'></iframe>  
-
-## 🚀 Projects  
-- 🔹 [Security Research & Labs](#)  
-- 🔹 [AI-Powered Security Tools](#)  
-- 🔹 [Android Security Apps](#)  
-
-## 📫 Contact Me  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#)  
-- 🏆 TryHackMe: [tryhackme.com/p/your-username](#)  
+<img src="https://tryhackme-badges.s3.amazonaws.com/TuanNg.png" alt="Your Image Badge" />
 
 
-<!---
-TuanNguyen811/TuanNguyen811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
